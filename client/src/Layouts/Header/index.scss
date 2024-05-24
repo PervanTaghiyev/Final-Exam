@@ -1,0 +1,42 @@
+.container{
+    padding: 3% 20%;
+    .header{
+        display: flex;
+        justify-content: space-between;
+        .banner{
+
+            .banner-add{
+            h2{
+                span{
+                    color: #fe4c50;
+                }
+            }
+          }
+        }
+    }
+}
+nav{
+    ul{
+        display: flex;
+        gap: 3rem;
+    }
+}
+.container{
+    .header{
+        .icons{
+            display: flex;
+            gap: 1.5rem;
+        }
+    }
+}
+.contain{
+    .cont{
+        .font{
+            display: flex;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            padding: 1% 0;
+        }
+    }
+}
